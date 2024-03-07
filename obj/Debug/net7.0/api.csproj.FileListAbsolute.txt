@@ -78,3 +78,10 @@
 /Users/sahanenes/Desktop/StockApp/api/bin/Debug/net7.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 /Users/sahanenes/Desktop/StockApp/api/bin/Debug/net7.0/Newtonsoft.Json.dll
 /Users/sahanenes/Desktop/StockApp/api/bin/Debug/net7.0/Newtonsoft.Json.Bson.dll
+/Users/sahanenes/Desktop/StockApp/api/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/sahanenes/Desktop/StockApp/api/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/sahanenes/Desktop/StockApp/api/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/sahanenes/Desktop/StockApp/api/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/sahanenes/Desktop/StockApp/api/bin/Debug/net7.0/Microsoft.Extensions.Identity.Core.dll
+/Users/sahanenes/Desktop/StockApp/api/bin/Debug/net7.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/sahanenes/Desktop/StockApp/api/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
