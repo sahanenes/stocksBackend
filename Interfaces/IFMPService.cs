@@ -6,8 +6,8 @@ using api.Models;
 
 namespace api.Interfaces
 {
-    public interface ITokenService
+    public interface IFMPService
     {
-        string CreateToken(AppUser user);
+        Task<Stock> FindStockBySymbolAsync(string symbol);
     }
 }
